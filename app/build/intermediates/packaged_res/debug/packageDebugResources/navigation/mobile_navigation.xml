@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_Calculator">
+
+    <fragment
+        android:id="@+id/nav_Calculator"
+        android:name="com.example.vaddiapp.ui.calculator.CalFragment"
+        android:label="Vaddi(₹) App"
+        tools:layout="@layout/fragment_cal" />
+
+    <fragment
+        android:id="@+id/nav_list"
+        android:name="com.example.vaddiapp.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_ChangePwd"
+        android:name="com.example.vaddiapp.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+</navigation>

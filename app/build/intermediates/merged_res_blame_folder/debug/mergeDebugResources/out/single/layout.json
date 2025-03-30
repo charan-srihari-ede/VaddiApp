@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-mergeDebugResources-44:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-mergeDebugResources-44:\\layout\\fragment_calculator.xml",
+        "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\layout\\fragment_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-mergeDebugResources-44:\\layout\\content_main.xml",
+        "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-mergeDebugResources-44:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.vaddiapp-mergeDebugResources-44:/layout/fragment_cal.xml",
+        "source": "com.example.vaddiapp-main-47:/layout/fragment_cal.xml"
+    },
+    {
+        "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-mergeDebugResources-44:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-mergeDebugResources-44:\\layout\\fragment_cal.xml",
+        "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\layout\\fragment_cal.xml"
+    },
+    {
+        "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-mergeDebugResources-44:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\layout\\app_bar_main.xml"
+    }
+]

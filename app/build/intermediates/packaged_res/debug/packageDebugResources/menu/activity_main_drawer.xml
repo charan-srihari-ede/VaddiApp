@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Calculator"
+            android:icon="@drawable/ic_menu_calculate"
+            android:title="@string/menu_Calculator" />
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@drawable/ic_menu_list"
+            android:title="@string/menu_ShowList" />
+        <item
+            android:id="@+id/nav_ChangePwd"
+            android:icon="@drawable/ic_menu_password"
+            android:title="@string/menu_ChangePwd" />
+        <item
+            android:id="@+id/Logout"
+            android:icon="@drawable/ic_menu_logout"
+            android:title="@string/menu_Logout" />
+    </group>
+</menu>
