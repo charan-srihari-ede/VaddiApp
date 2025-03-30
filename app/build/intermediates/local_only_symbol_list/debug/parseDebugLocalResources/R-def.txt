@@ -25,6 +25,7 @@ drawable baseline_arrow_circle_down_24
 drawable baseline_autorenew_24
 drawable button_background
 drawable edittext_background
+drawable ic_frg_clean
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_menu_calculate
@@ -46,13 +47,13 @@ id dateTakenInput
 id drawer_layout
 id fab
 id imageView
+id linearLayout
 id mobile_navigation
 id nav_Calculator
 id nav_ChangePwd
 id nav_host_fragment_content_main
 id nav_list
 id nav_view
-id openLinkButton
 id rateInput
 id refreshButton
 id textView

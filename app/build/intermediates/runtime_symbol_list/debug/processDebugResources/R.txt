@@ -3094,6 +3094,7 @@ int drawable ic_call_decline 0x7f070090
 int drawable ic_call_decline_low 0x7f070091
 int drawable ic_clear_black_24 0x7f070092
 int drawable ic_clock_black_24dp 0x7f070093
+int drawable ic_frg_clean 0x7f0700f4
 int drawable ic_keyboard_black_24dp 0x7f070094
 int drawable ic_launcher_background 0x7f070095
 int drawable ic_launcher_foreground 0x7f070096
@@ -3447,6 +3448,7 @@ int id legacy 0x7f0800fd
 int id line1 0x7f0800fe
 int id line3 0x7f0800ff
 int id linear 0x7f080100
+int id linearLayout 0x7f080220
 int id listMode 0x7f080101
 int id list_item 0x7f080102
 int id locale 0x7f080103
@@ -3541,7 +3543,6 @@ int id notification_main_column_container 0x7f08015b
 int id off 0x7f08015c
 int id on 0x7f08015d
 int id onInterceptTouchReturnSwipe 0x7f08015e
-int id openLinkButton 0x7f08015f
 int id open_search_bar_text_view 0x7f080160
 int id open_search_view_background 0x7f080161
 int id open_search_view_clear_button 0x7f080162

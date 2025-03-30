@@ -3095,6 +3095,7 @@ drawable ic_call_decline
 drawable ic_call_decline_low
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
+drawable ic_frg_clean
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -3448,6 +3449,7 @@ id legacy
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
 id locale
@@ -3542,7 +3544,6 @@ id notification_main_column_container
 id off
 id on
 id onInterceptTouchReturnSwipe
-id openLinkButton
 id open_search_bar_text_view
 id open_search_view_background
 id open_search_view_clear_button

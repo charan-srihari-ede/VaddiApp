@@ -36,6 +36,10 @@
         "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\layout\\content_main.xml"
     },
     {
+        "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-debug-45:\\drawable_ic_frg_clean.xml.flat",
+        "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\drawable\\ic_frg_clean.xml"
+    },
+    {
         "merged": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-debug-45:\\drawable_ic_menu_list.xml.flat",
         "source": "C:\\Users\\chara\\.gradle\\daemon\\8.9\\com.example.vaddiapp-main-47:\\drawable\\ic_menu_list.xml"
     },

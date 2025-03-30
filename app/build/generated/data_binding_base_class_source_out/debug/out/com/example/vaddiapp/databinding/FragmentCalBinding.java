@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -38,7 +39,7 @@ public final class FragmentCalBinding implements ViewBinding {
   public final EditText dateTakenInput;
 
   @NonNull
-  public final ImageView openLinkButton;
+  public final LinearLayout linearLayout;
 
   @NonNull
   public final EditText rateInput;
@@ -52,7 +53,7 @@ public final class FragmentCalBinding implements ViewBinding {
   private FragmentCalBinding(@NonNull ConstraintLayout rootView, @NonNull EditText amountInput,
       @NonNull Button calculateButton, @NonNull TextView copyrightText,
       @NonNull EditText dateReturnedInput, @NonNull EditText dateTakenInput,
-      @NonNull ImageView openLinkButton, @NonNull EditText rateInput,
+      @NonNull LinearLayout linearLayout, @NonNull EditText rateInput,
       @NonNull ImageView refreshButton, @NonNull TextView titleText) {
     this.rootView = rootView;
     this.amountInput = amountInput;
@@ -60,7 +61,7 @@ public final class FragmentCalBinding implements ViewBinding {
     this.copyrightText = copyrightText;
     this.dateReturnedInput = dateReturnedInput;
     this.dateTakenInput = dateTakenInput;
-    this.openLinkButton = openLinkButton;
+    this.linearLayout = linearLayout;
     this.rateInput = rateInput;
     this.refreshButton = refreshButton;
     this.titleText = titleText;
@@ -123,9 +124,9 @@ public final class FragmentCalBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.openLinkButton;
-      ImageView openLinkButton = ViewBindings.findChildViewById(rootView, id);
-      if (openLinkButton == null) {
+      id = R.id.linearLayout;
+      LinearLayout linearLayout = ViewBindings.findChildViewById(rootView, id);
+      if (linearLayout == null) {
         break missingId;
       }
 
@@ -148,8 +149,8 @@ public final class FragmentCalBinding implements ViewBinding {
       }
 
       return new FragmentCalBinding((ConstraintLayout) rootView, amountInput, calculateButton,
-          copyrightText, dateReturnedInput, dateTakenInput, openLinkButton, rateInput,
-          refreshButton, titleText);
+          copyrightText, dateReturnedInput, dateTakenInput, linearLayout, rateInput, refreshButton,
+          titleText);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

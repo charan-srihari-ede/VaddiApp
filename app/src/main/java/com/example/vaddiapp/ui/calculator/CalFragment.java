@@ -22,7 +22,7 @@ public class CalFragment extends Fragment {
         View root = binding.getRoot();
 
         // Example: If you want to set text dynamically
-        binding.titleText.setText("Vaddi(₹) App");
+        binding.titleText.setText(" ");
 
         return root;
     }
