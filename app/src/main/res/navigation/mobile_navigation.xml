@@ -9,7 +9,7 @@
         android:id="@+id/nav_Calculator"
         android:name="com.example.vaddiapp.ui.calculator.CalFragment"
         android:label="Vaddi(₹) App"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_cal" />
 
     <fragment
         android:id="@+id/nav_list"
