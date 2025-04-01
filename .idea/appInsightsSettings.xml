@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.vaddiapp" />
+                  <option name="mobileSdkAppId" value="1:479407979214:android:03f42ad4a3da7453f8ee9f" />
+                  <option name="projectId" value="vaddi-app" />
+                  <option name="projectNumber" value="479407979214" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

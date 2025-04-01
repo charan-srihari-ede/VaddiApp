@@ -23,6 +23,11 @@
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <string name="action_settings">Settings</string>
     <string name="app_name">Vaddi(₹) App</string>
+    <string name="gcm_defaultSenderId" translatable="false">479407979214</string>
+    <string name="google_api_key" translatable="false">AIzaSyD-AxZyYa6pTFy6xNnu1Fas-NKASHlenjM</string>
+    <string name="google_app_id" translatable="false">1:479407979214:android:03f42ad4a3da7453f8ee9f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD-AxZyYa6pTFy6xNnu1Fas-NKASHlenjM</string>
+    <string name="google_storage_bucket" translatable="false">vaddi-app.firebasestorage.app</string>
     <string name="menu_Calculator">Calculator</string>
     <string name="menu_ChangePwd">Change Password</string>
     <string name="menu_Logout">Logout</string>
@@ -35,6 +40,7 @@
     <string name="nav_header_title">Android Studio</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="project_id" translatable="false">vaddi-app</string>
     <style name="Theme.VaddiApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

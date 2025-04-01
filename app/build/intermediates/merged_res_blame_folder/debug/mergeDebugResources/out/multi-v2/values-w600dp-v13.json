@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.vaddiapp-mergeDebugResources-43:/values-w600dp-v13/values-w600dp-v13.xml",
+            "outputFile": "com.example.vaddiapp-mergeDebugResources-50:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\chara\\AndroidStudioProjects\\VaddiApp\\app\\src\\main\\res\\values-w600dp\\dimens.xml",

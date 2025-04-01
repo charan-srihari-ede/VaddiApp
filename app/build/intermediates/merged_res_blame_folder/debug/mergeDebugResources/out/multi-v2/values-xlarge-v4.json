@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.vaddiapp-mergeDebugResources-43:/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "com.example.vaddiapp-mergeDebugResources-50:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chara\\.gradle\\caches\\8.9\\transforms\\eb8fdac178c1ec3f6b33b75b02eefe0e\\transformed\\appcompat-1.7.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\chara\\.gradle\\caches\\8.9\\transforms\\f90a998be9731afc792f4e24604f80fc\\transformed\\appcompat-1.7.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
