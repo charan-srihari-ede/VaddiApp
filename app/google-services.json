@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479407979214",
+    "project_id": "vaddi-app",
+    "storage_bucket": "vaddi-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479407979214:android:03f42ad4a3da7453f8ee9f",
+        "android_client_info": {
+          "package_name": "com.example.vaddiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-AxZyYa6pTFy6xNnu1Fas-NKASHlenjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

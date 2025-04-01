@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">479407979214</string>
+    <string name="google_api_key" translatable="false">AIzaSyD-AxZyYa6pTFy6xNnu1Fas-NKASHlenjM</string>
+    <string name="google_app_id" translatable="false">1:479407979214:android:03f42ad4a3da7453f8ee9f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD-AxZyYa6pTFy6xNnu1Fas-NKASHlenjM</string>
+    <string name="google_storage_bucket" translatable="false">vaddi-app.firebasestorage.app</string>
+    <string name="project_id" translatable="false">vaddi-app</string>
+</resources>
